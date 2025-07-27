@@ -15,7 +15,7 @@ Tank Defender is a 2D shooting game inspired by arcade classics like Battle City
 
 👥  Built By
 - Araliya Paranawithana (https://www.linkedin.com/in/araliya-paranawithana-3a063a348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Saduni Sathsarani (https://www.linkedin.com/in/sanduni-sathsarani-9a27a4348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Sanduni Sathsarani (https://www.linkedin.com/in/sanduni-sathsarani-9a27a4348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Oshan Harischandra (https://www.linkedin.com/in/oshan-harischandra-354792351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
   **For academic use only**
